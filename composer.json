@@ -1,0 +1,14 @@
+{
+    "name": "shift8/shift8cdn",
+    "description": "A package to utilize the free Shift8 CDN service for Laravel",
+    "type": "library",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Shift8",
+            "email": "admin@stardothosting.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
