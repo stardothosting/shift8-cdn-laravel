@@ -9,6 +9,18 @@
             "email": "admin@stardothosting.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Shift8\\Shift8cdn\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shift8\\Shift8cdn\\Shift8CdnServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
