@@ -1,5 +1,5 @@
 <?php
-namespace Shift8\Shift8cdn;
+namespace Shift8Web\Shift8cdn;
 use Illuminate\Support\ServiceProvider;
 
 class Shift8CdnServiceProvider extends ServiceProvider {
