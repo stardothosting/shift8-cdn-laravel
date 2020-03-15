@@ -31,7 +31,7 @@ Once registered and your account is validated, you can visit the dashboard and a
 
 ### Step 3 : install the composer package
 
-You can install `shift8/shift8cdn` via Composer by executing `composer require shift8/shift8cdn` in your Laravel project's root folder. Alternatively you could add `"shift8/shift8cdn": "^0.1.1"` as a requirement to your composer.json. 
+You can install `shift8/shift8cdn` via Composer by executing `composer require shift8web/shift8cdn` in your Laravel project's root folder. Alternatively you could add `"shift8web/shift8cdn": "^0.1.1"` as a requirement to your composer.json. 
 
 ### Step 4 : service provider
 
