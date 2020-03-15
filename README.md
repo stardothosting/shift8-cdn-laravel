@@ -35,7 +35,7 @@ You can install `shift8/shift8cdn` via Composer by executing `composer require s
 
 ### Step 4 : service provider
 
-If you are using Laravel 5.5 or higher, the package will automatically register itself as a service provider. Otherwise you would have to add `Shift8\Shift8Cdn\Shift8CdnServiceProvider` to your [providers](https://laravel.com/docs/master/providers#registering-providers "Visit Laravel Documentation") array.
+If you are using Laravel 5.5 or higher, the package will automatically register itself as a service provider. Otherwise you would have to add `Shift8Web\Shift8Cdn\Shift8CdnServiceProvider` to your [providers](https://laravel.com/docs/master/providers#registering-providers "Visit Laravel Documentation") array.
 
 ### Step 5 : public config file
 
