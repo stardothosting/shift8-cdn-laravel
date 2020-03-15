@@ -1,7 +1,7 @@
 # Laravel package for a free CDN by Shift8
 
 ## Overview
-This is a Laravel package for *Shift8 CDN* which is a free CDN service that utilizes endpoints all across the globe in order to quickly deliver your static assets and media to your end users.
+This is a Laravel package for [Shift8 CDN](https://shift8cdn.com) which is a free CDN service that utilizes endpoints all across the globe in order to quickly deliver your static assets and media to your end users.
 
 Essentially you register for an account with the service, create a "pull zone" and install / configure the package in your Laravel (5.5+) project.
 
