@@ -84,3 +84,6 @@ To establish a consistent code quality, please provide unit tests for all your c
 ## License
 
 Released under the [GPLv3](LICENSE.md).
+
+
+Made with <3 by [Shift8 Web](https://www.shift8web.ca)
